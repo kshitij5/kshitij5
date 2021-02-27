@@ -10,15 +10,15 @@
 
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=kshitij5&show_icons=true&theme=dark&line_height=40">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij5&theme=dark">
+  <img src = "https://github-readme-stats.vercel.app/api?username=kshitij5&show_icons=true&theme=dark&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij5&layout=compact&theme=dark&line_height=27">
 </p>
 
 <!-----#### My projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aman-zishan&repo=textextractor2.0&theme=dark)](https://github.com/Aman-zishan/textextractor2.0)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aman-zishan&repo=DocScanner&theme=dark)](https://github.com/Aman-zishan/DocScanner)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aman-zishan&repo=cmsDapp&theme=dark)](https://github.com/Aman-zishan/cmsDapp)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aman-zishan&repo=BlackBoard&theme=dark)](https://github.com/Aman-zishan/BlackBoard)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kshitij5&repo=textextractor2.0&theme=dark)](https://github.com/Aman-zishan/textextractor2.0)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kshitij5&repo=DocScanner&theme=dark)](https://github.com/Aman-zishan/DocScanner)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kshitij5&repo=cmsDapp&theme=dark)](https://github.com/Aman-zishan/cmsDapp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kshitij5&repo=BlackBoard&theme=dark)](https://github.com/Aman-zishan/BlackBoard)
 --->
 
 <p align="center">
