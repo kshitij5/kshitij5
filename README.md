@@ -3,14 +3,14 @@
 <br>
 
 - 🔭 I'm currently working on [Karat18](https://karat18.blogspot.com/)
-- 🌱 I’m currently learning App Development :fire:
+- 🌱 I’m currently learning Flutter, Javascript :fire:
 - 💬 Ask me about **Flutter, Firebase, Python, Java**
 - 📫 How to reach me: [click here](https://kshi-tij.blogspot.com/)
 - ⚡ Fun fact **I get bored easily !**
 
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=kshitij5&show_icons=true&theme=dark&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=kshitij5&show_icons=true&theme=dark&line_height=40">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij5&theme=dark">
 </p>
 
