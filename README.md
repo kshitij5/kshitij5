@@ -2,9 +2,9 @@
 
 <br>
 
-- 🔭 I'm currently working on [Karat18](https://karat18.blogspot.com/)
-- 🌱 I’m currently learning Flutter, Javascript :fire:
-- 💬 Ask me about **Flutter, Firebase, Python, Java**
+- 🔭 I'm currently working at [Karat18](https://karat18.blogspot.com/)
+- 🌱 I’m currently learning Flutter, Firebase, App Architecture :fire:
+- 💬 Ask me about **Flutter, Firebase, Java, C++, C#**
 - 📫 How to reach me: [click here](https://kshi-tij.blogspot.com/)
 - ⚡ Fun fact **I get bored easily !**
 
@@ -14,12 +14,15 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij5&layout=compact&theme=dark&line_height=27">
 </p>
 
-<!-----#### My projects
+<!-- ---#### My projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kshitij5&repo=textextractor2.0&theme=dark)](https://github.com/Aman-zishan/textextractor2.0)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kshitij5&repo=DocScanner&theme=dark)](https://github.com/Aman-zishan/DocScanner)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kshitij5&repo=cmsDapp&theme=dark)](https://github.com/Aman-zishan/cmsDapp)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kshitij5&repo=BlackBoard&theme=dark)](https://github.com/Aman-zishan/BlackBoard)
---->
+- -->
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Kshitij" alt="Kshitij" /></p>
+
 
 <p align="center">
   <b>Connect with me on:</b>
