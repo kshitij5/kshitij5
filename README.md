@@ -1,10 +1,10 @@
-### Hi there <img src="https://camo.githubusercontent.com/35d3d11359a49bf12aebb834cc13fd81b95eff4e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="2.5%" width="2.5%"> I am Avishek
+### Hi there, I am Avishek Sharma
 
 <br>
 
-- 🔭 I'm currently working at [Karat18](https://karat18.blogspot.com/)
-- 🌱 I’m currently learning Flutter, Firebase, App Architecture :fire:
-- 💬 Ask me about **Flutter, Firebase, Java, C++, C#**
+- 🔭 I'm currently working at [Cognizant](https://careers.cognizant.com/india-en/)
+- 🌱 I’m currently learning **Spring Boot, Angular, Microservices Architecture** :fire:
+- 💬 Ask me about **Java, SpringBoot, Microservices**
 - 📫 How to reach me: [click here](https://kshi-tij.blogspot.com/)
 - ⚡ Fun fact **I get bored easily !**
 
